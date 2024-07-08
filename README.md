@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priyanka Das
 - 👀 I’m interested in Academic Research 
-- 🌱 I’m currently learning Quantum Image Processing
-- 💞️ I’m looking to collaborate on Feature Extraction of images using statistical methods
+- 🌱 I’m currently learning Statistical Learning Theory
+- 💞️ I’m looking to collaborate on Image, Speech, Signal and Video Processing
 - 📫 How to reach me.. mail to das.219priyanka@gmail.com
 
 <!---
